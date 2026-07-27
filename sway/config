@@ -209,6 +209,13 @@ mode "resize" {
 }
 bindsym $mod+r mode "resize"
 
+#
+# Waybar
+# 
+bar {
+    swaybar_command waybar
+}
+
 # Include configs from 3 locations:
 #  - /usr/share/sway/config.d
 #  - /etc/sway/config.d
