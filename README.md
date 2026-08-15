@@ -1,10 +1,8 @@
-# David's Config
-
-Here are my config files!
+# David's Dotfiles
 
 ## Instructions
 
-Clone the repository. Then, install the config.
+Clone the repository. Then, run `install.sh`.
 
 ```
 $ git clone git@github.com:davidfcohen/config.git
@@ -25,7 +23,4 @@ $ ln -sn $(pwd)/alacritty $HOME/.config/alacritty
 | `alacritty`    | `~/.config/alacritty` |
 | `fish`         | `~/.config/fish`      |
 | `helix`        | `~/.config/helix`     |
-| `sway`         | `~/.config/sway`      |
-| `swaylock`     | `~/.config/swaylock`  |
-| `waybar`       | `~/.config/waybar`    |
 
